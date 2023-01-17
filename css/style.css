@@ -55,7 +55,7 @@ body {
   color: #434455;
 }
 .button {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   cursor: pointer;
   font-weight: 500;
   font-size: 1.5;
@@ -65,19 +65,19 @@ body {
   letter-spacing: 0.04em;
   background: #4d5ae5;
 }
-.button-filters{
+.button-filters {
   cursor: pointer;
-font-weight: 500;
-font-size: 1.5;
-line-height: 24px;
-align-items: center;
-text-align: center;
-letter-spacing: 0.04em;
-background: #F4F4FD;
-color: #4D5AE5;
+  font-weight: 500;
+  font-size: 1.5;
+  line-height: 24px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+  background: #f4f4fd;
+  color: #4d5ae5;
 }
-.button-filters:hover{
-  color: #F4F4FD;
+.button-filters:hover {
+  color: #f4f4fd;
   background: #404bbf;
 }
 .button:hover {
@@ -119,8 +119,8 @@ color: #4D5AE5;
   letter-spacing: 0.02em;
   color: #e7e9fc;
 }
-.logotype-item-footer{
-  color: #F4F4FD;
+.logotype-item-footer {
+  color: #f4f4fd;
 }
 .title-name {
   font-weight: 500;
