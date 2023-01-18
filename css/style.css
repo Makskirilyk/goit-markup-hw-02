@@ -12,10 +12,10 @@ body {
   color: #2e2f42;
 }
 .logotype {
+  font-weight: 800;
   cursor: pointer;
   color: #4d5ae5;
   font-family: "Raleway";
-  font-weight: 800;
   font-size: 18px;
   line-height: 0.85;
   display: flex;
@@ -38,7 +38,7 @@ body {
   color: #2e2f42;
 }
 .phone-number {
-  font-weight: 400;
+  font-style: normal;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -48,7 +48,7 @@ body {
   color: #404bbf;
 }
 .mail-post {
-  font-weight: 400;
+  font-style: normal;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -57,7 +57,6 @@ body {
 .button {
   font-family: "Roboto";
   cursor: pointer;
-  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   display: flex;
@@ -66,8 +65,9 @@ body {
   background: #4d5ae5;
 }
 .button-filters {
-  cursor: pointer;
   font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  cursor: pointer;
   font-size: 16px;
   line-height: 1.5;
   align-items: center;
@@ -81,39 +81,36 @@ body {
   background: #404bbf;
 }
 .button:hover {
-  background: #404bbf;
+
 }
 .hero-title {
-  font-weight: 700;
-  font-size: 1;
-  line-height: 60px;
+  font-size: 56px;
+  line-height: 1;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
 .title {
-  font-weight: 700;
-  font-size: 1.1;
-  line-height: 36px;
+  font-size: 40px;
+  line-height: 1.1;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .suptitle {
-  font-weight: 400;
+
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 .title-item {
-  font-weight: 500;
-  font-size: 1.25;
-  line-height: 16px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.25;
   letter-spacing: 0.02em;
 }
 .footer-subtitle {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -123,7 +120,6 @@ body {
   color: #f4f4fd;
 }
 .title-name {
-  font-weight: 500;
   font-size: 20px;
   line-height: 0.8;
   text-align: center;
